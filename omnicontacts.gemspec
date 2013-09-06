@@ -9,6 +9,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency 'rack'
   gem.add_runtime_dependency 'json'
+  gem.add_runtime_dependency 'oauth'
 
   gem.add_development_dependency 'simplecov'
   gem.add_development_dependency 'rake'
